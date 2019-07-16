@@ -8,4 +8,4 @@ and that you leave at least five values in the array. When you call the python
 script from the command prompt every combination of resistor and their combined
 resistance will be printed to the screen.
 
-[Resistance Combinator Calculator Output](https://github.com/sparkfun/Resistance_Combinator_Calculator/blob/master/Resistance_Calculation.JPG)
+![Resistance Combinator Calculator Output](https://github.com/sparkfun/Resistance_Combinator_Calculator/blob/master/Resistance_Calculation.JPG)
